@@ -60,7 +60,7 @@ Parmi toutes les photos qui ont été postés sur le compte, seules 3 n'ont pas 
 
 ## Les problèmes
 
-Ma première idée était alors de chercher où ont été prises les photos de vacances. Même s'il a pris des vacances après le repas avec son frère, il aurait été possible de rebondir. Le chemin hypothétique serait le suivant : 
+Ma première idée était alors de chercher où ont été prises les photos de vacances. Même s'il a pris des vacances après le repas avec son frère, il aurait été possible de rebondir. Le chemin hypothétique aurait été le suivant : 
 1. Endroit localisé
 2. Jean laisse un avis sur un restaurant aux alentours, on peut le retrouver sur google maps (16 mai environ)
 3. A partir de son compte, on peut regarder s'il a posté d'autres avis, dont un vers le 28 mars qui mentionne son frère
