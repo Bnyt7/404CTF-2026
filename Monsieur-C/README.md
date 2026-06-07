@@ -107,6 +107,8 @@ Il a rencontré des personnes mais il a aussi pris des photos.
 
 En faisant une recherche par images, on découvre qu'il s'agit d'une Leucheria leontopodioides. Les Leucheria sont originaires d'Amérique du Sud et des Îles Falkland (Iles Malouines).
 
+https://identify.plantnet.org/the-plant-list/species/Leucheria%20leontopodioides%20(Kuntze)%20K.Schum./data
+
 https://en.wikipedia.org/wiki/Leucheria
 
 En cherchant à nouveau sur Wikipedia, on se rend compte que Bougainville (explorateur français) s'était rendu sur les Îles il y a quelques siècles.
