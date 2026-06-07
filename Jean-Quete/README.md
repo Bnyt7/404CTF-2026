@@ -88,7 +88,7 @@ Sur [son site](images/https://www.scanonegraffiti.com/scanone), on trouve une ph
 
 Dans les deux cas, il mentionne la France, mais on ne sait pas où précisément.
 
-Cependant sur son compte Instagram, un photo du même graffiti mentionne la ville dans les hashtags !
+Cependant sur son compte Instagram, une photo du même graffiti mentionne la ville dans les hashtags !
 
 https://www.instagram.com/p/Ci8feR7rsOs/
 
@@ -107,7 +107,8 @@ https://www.legal-walls.net/wall/1004
 
 https://maps.google.com/maps?q=46.709927,-1.960479&ll=46.709927,-1.960479&z=18
 
-Avec street view, 
+Sur street view, on voit bien le bâtiment à droite
+
 ![Mur de graffitis](images/mur-graffiti.png)
 
 A partir de cet endroit, je regarde les avis de tous les restaurants aux alentours. Et là miracle !
