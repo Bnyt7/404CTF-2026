@@ -8,7 +8,7 @@
 > 
 > Format : 404CTF{apiculture}
 
-Deux photos sont fournises.
+Deux photos sont fournies.
 
 ![Photo 1](images/photo1.png)
 
@@ -28,7 +28,7 @@ https://maps.app.goo.gl/b9UtU3waL6p17X45A
 
 ![Point de vue 3](images/street-view-3.png)
 
-Dans tous les cas, le stand le plus au nord-est est le primeur et producteur.
+Dans tous les cas, le stand le plus au nord-est est le "primeur et producteur".
 
 La catégorie d'activité du stand est le maraîchage.
 
