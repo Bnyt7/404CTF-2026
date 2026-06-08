@@ -14,7 +14,7 @@
 > "Monsieur C" n'est pas un pseudo à investiguer, il s'agit seulement d'un alias destiné à cacher la véritable identité de Monsieur C ;)
 
 
-Il faut regarder le compte de Sherpeace sur Discord. Dans sa bio, il y a un lien vers un blog.
+Il faut regarder le compte de Sherpearce sur Discord. Dans sa bio, il y a un lien vers un blog.
 
 ![Bio de sherpearce](images/sherpearce.png)
 
@@ -105,7 +105,7 @@ Il a rencontré des personnes mais il a aussi pris des photos.
 
 ![photo de fleurs](images/fleurs.png)
 
-En faisant une recherche par images, on découvre qu'il s'agit d'une Leucheria leontopodioides. Les Leucheria sont originaires d'Amérique du Sud et des Îles Falkland (Iles Malouines).
+En faisant une recherche par images, on découvre qu'il s'agit d'une Leucheria suaveolens (et non Leucheria leontopodioides). Les Leucheria sont originaires d'Amérique du Sud et des Îles Falkland (Iles Malouines).
 
 https://identify.plantnet.org/the-plant-list/species/Leucheria%20leontopodioides%20(Kuntze)%20K.Schum./data
 
